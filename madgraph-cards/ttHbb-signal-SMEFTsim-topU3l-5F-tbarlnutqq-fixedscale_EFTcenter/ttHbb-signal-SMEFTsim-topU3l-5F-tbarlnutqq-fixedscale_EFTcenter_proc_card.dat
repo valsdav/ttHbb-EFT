@@ -1,0 +1,15 @@
+set stdout_level DEBUG
+
+import model SMEFTsim_topU3l_MwScheme_UFO_ttHbb-ttHbb_noCtG_massless
+
+define l+ = e+ mu+ ta+
+define l- = e- mu- ta-
+define j = u c d s u~ c~ d~ s~ b b~
+define p = g u c d s b u~ c~ d~ s~ b~
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~
+define had = u c d s u~ c~ d~ s~
+generate p p > t t~ h, h > b b~, t > had had b, t~ > l- vl~ b~    @1 NP<=1 SMHLOOP=0 NProp=0
+
+
+output ttHbb-signal-SMEFTsim-topU3l-5F-tbarlnutqq-fixedscale_EFTcenter
