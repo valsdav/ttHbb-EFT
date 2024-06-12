@@ -1,0 +1,407 @@
+change rwgt_dir rwgt
+change helicity False
+launch --rwgt_name=rw0000
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0001
+set smeft 11 5
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0002
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0003
+set smeft 11 0
+set smeft 17 5
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0004
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0005
+set smeft 11 0
+set smeft 17 0
+set smeft 19 5
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0006
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0007
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 5
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0008
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0009
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 5
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0010
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0011
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 5
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0012
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0013
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 5
+set smeft 35 0
+launch --rwgt_name=rw0014
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0015
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 5
+launch --rwgt_name=rw0016
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0017
+set smeft 11 10
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0018
+set smeft 11 10
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0019
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0020
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0021
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0022
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0023
+set smeft 11 10
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0024
+set smeft 11 0
+set smeft 17 10
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0025
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0026
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0027
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0028
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0029
+set smeft 11 0
+set smeft 17 10
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0030
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0031
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0032
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0033
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0034
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0035
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0036
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0037
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0038
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0039
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 10
+set smeft 31 0
+set smeft 35 0
+launch --rwgt_name=rw0040
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0041
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0042
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 10
+set smeft 35 0
+launch --rwgt_name=rw0043
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10
+set smeft 31 0
+set smeft 35 10
+launch --rwgt_name=rw0044
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10
+set smeft 35 10

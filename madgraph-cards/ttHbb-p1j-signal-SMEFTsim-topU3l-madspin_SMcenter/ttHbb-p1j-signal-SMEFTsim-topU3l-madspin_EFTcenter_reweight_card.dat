@@ -1,0 +1,4972 @@
+change helicity False
+change rwgt_dir rwgt
+
+launch --rwgt_name=rw0
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw1
+set smeft 11 -10.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw2
+set smeft 11 -5.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw3
+set smeft 11 -1.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw4
+set smeft 11 1.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw5
+set smeft 11 5.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw6
+set smeft 11 10.0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw7
+set smeft 11 0
+set smeft 17 -10.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw8
+set smeft 11 0
+set smeft 17 -5.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw9
+set smeft 11 0
+set smeft 17 -1.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw10
+set smeft 11 0
+set smeft 17 1.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw11
+set smeft 11 0
+set smeft 17 5.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw12
+set smeft 11 0
+set smeft 17 10.0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw13
+set smeft 11 0
+set smeft 17 0
+set smeft 19 -10.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw14
+set smeft 11 0
+set smeft 17 0
+set smeft 19 -5.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw15
+set smeft 11 0
+set smeft 17 0
+set smeft 19 -1.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw16
+set smeft 11 0
+set smeft 17 0
+set smeft 19 1.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw17
+set smeft 11 0
+set smeft 17 0
+set smeft 19 5.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw18
+set smeft 11 0
+set smeft 17 0
+set smeft 19 10.0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw19
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 -10.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw20
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 -5.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw21
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 -1.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw22
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 1.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw23
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 5.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw24
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 10.0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw25
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 -10.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw26
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 -5.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw27
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 -1.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw28
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 1.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw29
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 5.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw30
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 10.0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw31
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 -10.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw32
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 -5.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw33
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 -1.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw34
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 1.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw35
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 5.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw36
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 10.0
+set smeft 31 0
+set smeft 35 0
+
+launch --rwgt_name=rw37
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 -10.0
+set smeft 35 0
+
+launch --rwgt_name=rw38
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 -5.0
+set smeft 35 0
+
+launch --rwgt_name=rw39
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 -1.0
+set smeft 35 0
+
+launch --rwgt_name=rw40
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 1.0
+set smeft 35 0
+
+launch --rwgt_name=rw41
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 5.0
+set smeft 35 0
+
+launch --rwgt_name=rw42
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 10.0
+set smeft 35 0
+
+launch --rwgt_name=rw43
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 -10.0
+
+launch --rwgt_name=rw44
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 -5.0
+
+launch --rwgt_name=rw45
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 -1.0
+
+launch --rwgt_name=rw46
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 1.0
+
+launch --rwgt_name=rw47
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 5.0
+
+launch --rwgt_name=rw48
+set smeft 11 0
+set smeft 17 0
+set smeft 19 0
+set smeft 23 0
+set smeft 27 0
+set smeft 29 0
+set smeft 31 0
+set smeft 35 10.0
+
+launch --rwgt_name=rw49
+set param 11 -5.0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw50
+set param 11 -5.0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw51
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw52
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw53
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw54
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+
+launch --rwgt_name=rw55
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+
+launch --rwgt_name=rw56
+set param 17 0
+set param 17 -5.0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw57
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw58
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw59
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw60
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+
+launch --rwgt_name=rw61
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+
+launch --rwgt_name=rw62
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw63
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw64
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw65
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+
+launch --rwgt_name=rw66
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+
+launch --rwgt_name=rw67
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw68
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw69
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+
+launch --rwgt_name=rw70
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+
+launch --rwgt_name=rw71
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw72
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+
+launch --rwgt_name=rw73
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+
+launch --rwgt_name=rw74
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 -5.0
+set param 29 0
+
+launch --rwgt_name=rw75
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 0
+set param 29 -5.0
+
+launch --rwgt_name=rw76
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -5.0
+set param 31 -5.0
+
+launch --rwgt_name=rw77
+set param 11 -5.0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw78
+set param 11 -5.0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw79
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw80
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw81
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw82
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+
+launch --rwgt_name=rw83
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+
+launch --rwgt_name=rw84
+set param 17 0
+set param 17 -5.0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw85
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw86
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw87
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw88
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+
+launch --rwgt_name=rw89
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+
+launch --rwgt_name=rw90
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw91
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw92
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw93
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+
+launch --rwgt_name=rw94
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+
+launch --rwgt_name=rw95
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw96
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw97
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+
+launch --rwgt_name=rw98
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+
+launch --rwgt_name=rw99
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw100
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+
+launch --rwgt_name=rw101
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+
+launch --rwgt_name=rw102
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 -1.0
+set param 29 0
+
+launch --rwgt_name=rw103
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 0
+set param 29 -1.0
+
+launch --rwgt_name=rw104
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -5.0
+set param 31 -1.0
+
+launch --rwgt_name=rw105
+set param 11 -5.0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw106
+set param 11 -5.0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw107
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw108
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw109
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw110
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+
+launch --rwgt_name=rw111
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+
+launch --rwgt_name=rw112
+set param 17 0
+set param 17 -5.0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw113
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw114
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw115
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw116
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+
+launch --rwgt_name=rw117
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+
+launch --rwgt_name=rw118
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw119
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw120
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw121
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+
+launch --rwgt_name=rw122
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+
+launch --rwgt_name=rw123
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw124
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw125
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+
+launch --rwgt_name=rw126
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+
+launch --rwgt_name=rw127
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw128
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 1.0
+set param 27 0
+
+launch --rwgt_name=rw129
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+set param 27 1.0
+
+launch --rwgt_name=rw130
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 1.0
+set param 29 0
+
+launch --rwgt_name=rw131
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 0
+set param 29 1.0
+
+launch --rwgt_name=rw132
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -5.0
+set param 31 1.0
+
+launch --rwgt_name=rw133
+set param 11 -5.0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw134
+set param 11 -5.0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw135
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw136
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw137
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw138
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+
+launch --rwgt_name=rw139
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+
+launch --rwgt_name=rw140
+set param 17 0
+set param 17 -5.0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw141
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw142
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw143
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw144
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+
+launch --rwgt_name=rw145
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+
+launch --rwgt_name=rw146
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw147
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw148
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw149
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+
+launch --rwgt_name=rw150
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+
+launch --rwgt_name=rw151
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw152
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw153
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+
+launch --rwgt_name=rw154
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+
+launch --rwgt_name=rw155
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw156
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 5.0
+set param 27 0
+
+launch --rwgt_name=rw157
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+set param 27 5.0
+
+launch --rwgt_name=rw158
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 5.0
+set param 29 0
+
+launch --rwgt_name=rw159
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -5.0
+set param 29 0
+set param 29 5.0
+
+launch --rwgt_name=rw160
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -5.0
+set param 31 5.0
+
+launch --rwgt_name=rw161
+set param 11 -1.0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw162
+set param 11 -1.0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw163
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw164
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw165
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw166
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+
+launch --rwgt_name=rw167
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+
+launch --rwgt_name=rw168
+set param 17 0
+set param 17 -1.0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw169
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw170
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw171
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw172
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+
+launch --rwgt_name=rw173
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+
+launch --rwgt_name=rw174
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw175
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw176
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw177
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+
+launch --rwgt_name=rw178
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+
+launch --rwgt_name=rw179
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw180
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw181
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+
+launch --rwgt_name=rw182
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+
+launch --rwgt_name=rw183
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw184
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+
+launch --rwgt_name=rw185
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+
+launch --rwgt_name=rw186
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 -5.0
+set param 29 0
+
+launch --rwgt_name=rw187
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 0
+set param 29 -5.0
+
+launch --rwgt_name=rw188
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -1.0
+set param 31 -5.0
+
+launch --rwgt_name=rw189
+set param 11 -1.0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw190
+set param 11 -1.0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw191
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw192
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw193
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw194
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+
+launch --rwgt_name=rw195
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+
+launch --rwgt_name=rw196
+set param 17 0
+set param 17 -1.0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw197
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw198
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw199
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw200
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+
+launch --rwgt_name=rw201
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+
+launch --rwgt_name=rw202
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw203
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw204
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw205
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+
+launch --rwgt_name=rw206
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+
+launch --rwgt_name=rw207
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw208
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw209
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+
+launch --rwgt_name=rw210
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+
+launch --rwgt_name=rw211
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw212
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+
+launch --rwgt_name=rw213
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+
+launch --rwgt_name=rw214
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 -1.0
+set param 29 0
+
+launch --rwgt_name=rw215
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 0
+set param 29 -1.0
+
+launch --rwgt_name=rw216
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -1.0
+set param 31 -1.0
+
+launch --rwgt_name=rw217
+set param 11 -1.0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw218
+set param 11 -1.0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw219
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw220
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw221
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw222
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+
+launch --rwgt_name=rw223
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+
+launch --rwgt_name=rw224
+set param 17 0
+set param 17 -1.0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw225
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw226
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw227
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw228
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+
+launch --rwgt_name=rw229
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+
+launch --rwgt_name=rw230
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw231
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw232
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw233
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+
+launch --rwgt_name=rw234
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+
+launch --rwgt_name=rw235
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw236
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw237
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+
+launch --rwgt_name=rw238
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+
+launch --rwgt_name=rw239
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw240
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 1.0
+set param 27 0
+
+launch --rwgt_name=rw241
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+set param 27 1.0
+
+launch --rwgt_name=rw242
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 1.0
+set param 29 0
+
+launch --rwgt_name=rw243
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 0
+set param 29 1.0
+
+launch --rwgt_name=rw244
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -1.0
+set param 31 1.0
+
+launch --rwgt_name=rw245
+set param 11 -1.0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw246
+set param 11 -1.0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw247
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw248
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw249
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw250
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+
+launch --rwgt_name=rw251
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+
+launch --rwgt_name=rw252
+set param 17 0
+set param 17 -1.0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw253
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw254
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw255
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw256
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+
+launch --rwgt_name=rw257
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+
+launch --rwgt_name=rw258
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw259
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw260
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw261
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+
+launch --rwgt_name=rw262
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+
+launch --rwgt_name=rw263
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw264
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw265
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+
+launch --rwgt_name=rw266
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+
+launch --rwgt_name=rw267
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw268
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 5.0
+set param 27 0
+
+launch --rwgt_name=rw269
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+set param 27 5.0
+
+launch --rwgt_name=rw270
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 5.0
+set param 29 0
+
+launch --rwgt_name=rw271
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 -1.0
+set param 29 0
+set param 29 5.0
+
+launch --rwgt_name=rw272
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 -1.0
+set param 31 5.0
+
+launch --rwgt_name=rw273
+set param 11 1.0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw274
+set param 11 1.0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw275
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw276
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw277
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw278
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+
+launch --rwgt_name=rw279
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+
+launch --rwgt_name=rw280
+set param 17 0
+set param 17 1.0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw281
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw282
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw283
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw284
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+
+launch --rwgt_name=rw285
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+
+launch --rwgt_name=rw286
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw287
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw288
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw289
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+
+launch --rwgt_name=rw290
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+
+launch --rwgt_name=rw291
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw292
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw293
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+
+launch --rwgt_name=rw294
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+
+launch --rwgt_name=rw295
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw296
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+
+launch --rwgt_name=rw297
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+
+launch --rwgt_name=rw298
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 -5.0
+set param 29 0
+
+launch --rwgt_name=rw299
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 0
+set param 29 -5.0
+
+launch --rwgt_name=rw300
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 1.0
+set param 31 -5.0
+
+launch --rwgt_name=rw301
+set param 11 1.0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw302
+set param 11 1.0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw303
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw304
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw305
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw306
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+
+launch --rwgt_name=rw307
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+
+launch --rwgt_name=rw308
+set param 17 0
+set param 17 1.0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw309
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw310
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw311
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw312
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+
+launch --rwgt_name=rw313
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+
+launch --rwgt_name=rw314
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw315
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw316
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw317
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+
+launch --rwgt_name=rw318
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+
+launch --rwgt_name=rw319
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw320
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw321
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+
+launch --rwgt_name=rw322
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+
+launch --rwgt_name=rw323
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw324
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+
+launch --rwgt_name=rw325
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+
+launch --rwgt_name=rw326
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 -1.0
+set param 29 0
+
+launch --rwgt_name=rw327
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 0
+set param 29 -1.0
+
+launch --rwgt_name=rw328
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 1.0
+set param 31 -1.0
+
+launch --rwgt_name=rw329
+set param 11 1.0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw330
+set param 11 1.0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw331
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw332
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw333
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw334
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+
+launch --rwgt_name=rw335
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+
+launch --rwgt_name=rw336
+set param 17 0
+set param 17 1.0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw337
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw338
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw339
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw340
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+
+launch --rwgt_name=rw341
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+
+launch --rwgt_name=rw342
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw343
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw344
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw345
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+
+launch --rwgt_name=rw346
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+
+launch --rwgt_name=rw347
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw348
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw349
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+
+launch --rwgt_name=rw350
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+
+launch --rwgt_name=rw351
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw352
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 1.0
+set param 27 0
+
+launch --rwgt_name=rw353
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 0
+set param 27 1.0
+
+launch --rwgt_name=rw354
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 1.0
+set param 29 0
+
+launch --rwgt_name=rw355
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 0
+set param 29 1.0
+
+launch --rwgt_name=rw356
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 1.0
+set param 31 1.0
+
+launch --rwgt_name=rw357
+set param 11 1.0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw358
+set param 11 1.0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw359
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw360
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw361
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw362
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+
+launch --rwgt_name=rw363
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+
+launch --rwgt_name=rw364
+set param 17 0
+set param 17 1.0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw365
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw366
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw367
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw368
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+
+launch --rwgt_name=rw369
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+
+launch --rwgt_name=rw370
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw371
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw372
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw373
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+
+launch --rwgt_name=rw374
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+
+launch --rwgt_name=rw375
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw376
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw377
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+
+launch --rwgt_name=rw378
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+
+launch --rwgt_name=rw379
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw380
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 5.0
+set param 27 0
+
+launch --rwgt_name=rw381
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 1.0
+set param 27 0
+set param 27 0
+set param 27 5.0
+
+launch --rwgt_name=rw382
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 5.0
+set param 29 0
+
+launch --rwgt_name=rw383
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 1.0
+set param 29 0
+set param 29 5.0
+
+launch --rwgt_name=rw384
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 1.0
+set param 31 5.0
+
+launch --rwgt_name=rw385
+set param 11 5.0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw386
+set param 11 5.0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw387
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw388
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw389
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw390
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+set param 11 0
+
+launch --rwgt_name=rw391
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -5.0
+
+launch --rwgt_name=rw392
+set param 17 0
+set param 17 5.0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw393
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw394
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw395
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw396
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+set param 17 0
+
+launch --rwgt_name=rw397
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -5.0
+
+launch --rwgt_name=rw398
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw399
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw400
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw401
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+set param 19 0
+
+launch --rwgt_name=rw402
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -5.0
+
+launch --rwgt_name=rw403
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw404
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw405
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+set param 23 0
+
+launch --rwgt_name=rw406
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -5.0
+
+launch --rwgt_name=rw407
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 -5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw408
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 -5.0
+set param 27 0
+
+launch --rwgt_name=rw409
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 0
+set param 27 -5.0
+
+launch --rwgt_name=rw410
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 -5.0
+set param 29 0
+
+launch --rwgt_name=rw411
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 0
+set param 29 -5.0
+
+launch --rwgt_name=rw412
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 5.0
+set param 31 -5.0
+
+launch --rwgt_name=rw413
+set param 11 5.0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw414
+set param 11 5.0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw415
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw416
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw417
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw418
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+set param 11 0
+
+launch --rwgt_name=rw419
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 -1.0
+
+launch --rwgt_name=rw420
+set param 17 0
+set param 17 5.0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw421
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw422
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw423
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw424
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+set param 17 0
+
+launch --rwgt_name=rw425
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 -1.0
+
+launch --rwgt_name=rw426
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw427
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw428
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw429
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+set param 19 0
+
+launch --rwgt_name=rw430
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 -1.0
+
+launch --rwgt_name=rw431
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw432
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw433
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+set param 23 0
+
+launch --rwgt_name=rw434
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 -1.0
+
+launch --rwgt_name=rw435
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 -1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw436
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 -1.0
+set param 27 0
+
+launch --rwgt_name=rw437
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 0
+set param 27 -1.0
+
+launch --rwgt_name=rw438
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 -1.0
+set param 29 0
+
+launch --rwgt_name=rw439
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 0
+set param 29 -1.0
+
+launch --rwgt_name=rw440
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 5.0
+set param 31 -1.0
+
+launch --rwgt_name=rw441
+set param 11 5.0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw442
+set param 11 5.0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw443
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw444
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw445
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw446
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+set param 11 0
+
+launch --rwgt_name=rw447
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 1.0
+
+launch --rwgt_name=rw448
+set param 17 0
+set param 17 5.0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw449
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw450
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw451
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw452
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+set param 17 0
+
+launch --rwgt_name=rw453
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 1.0
+
+launch --rwgt_name=rw454
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw455
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw456
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw457
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+set param 19 0
+
+launch --rwgt_name=rw458
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 1.0
+
+launch --rwgt_name=rw459
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 1.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw460
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 1.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw461
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 1.0
+set param 23 0
+
+launch --rwgt_name=rw462
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 1.0
+
+launch --rwgt_name=rw463
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 1.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw464
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 1.0
+set param 27 0
+
+launch --rwgt_name=rw465
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 0
+set param 27 1.0
+
+launch --rwgt_name=rw466
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 1.0
+set param 29 0
+
+launch --rwgt_name=rw467
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 0
+set param 29 1.0
+
+launch --rwgt_name=rw468
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 5.0
+set param 31 1.0
+
+launch --rwgt_name=rw469
+set param 11 5.0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw470
+set param 11 5.0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw471
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw472
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw473
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+set param 11 0
+
+launch --rwgt_name=rw474
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+set param 11 0
+
+launch --rwgt_name=rw475
+set param 11 5.0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 0
+set param 11 5.0
+
+launch --rwgt_name=rw476
+set param 17 0
+set param 17 5.0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw477
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw478
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw479
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+
+launch --rwgt_name=rw480
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+set param 17 0
+
+launch --rwgt_name=rw481
+set param 17 0
+set param 17 5.0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 0
+set param 17 5.0
+
+launch --rwgt_name=rw482
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw483
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw484
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+
+launch --rwgt_name=rw485
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+
+launch --rwgt_name=rw486
+set param 19 0
+set param 19 0
+set param 19 5.0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 0
+set param 19 5.0
+
+launch --rwgt_name=rw487
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw488
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+
+launch --rwgt_name=rw489
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+
+launch --rwgt_name=rw490
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+set param 23 0
+set param 23 0
+set param 23 0
+set param 23 5.0
+
+launch --rwgt_name=rw491
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 5.0
+set param 27 0
+set param 27 0
+
+launch --rwgt_name=rw492
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 5.0
+set param 27 0
+
+launch --rwgt_name=rw493
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 0
+set param 27 5.0
+set param 27 0
+set param 27 0
+set param 27 5.0
+
+launch --rwgt_name=rw494
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 5.0
+set param 29 0
+
+launch --rwgt_name=rw495
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 0
+set param 29 5.0
+set param 29 0
+set param 29 5.0
+
+launch --rwgt_name=rw496
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 0
+set param 31 5.0
+set param 31 5.0

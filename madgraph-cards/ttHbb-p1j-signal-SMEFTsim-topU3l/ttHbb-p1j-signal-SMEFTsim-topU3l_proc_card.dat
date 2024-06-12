@@ -1,0 +1,17 @@
+set stdout_level DEBUG
+
+import model SMEFTsim_topU3l_MwScheme_UFO_ttHbb-ttHbb_noCtG_massless
+
+define l+ = e+ mu+ ta+
+define l- = e- mu- ta-
+define had = u c d s u~ c~ d~ s~
+define vl = ve vm vt
+define vl~ = ve~ vm~ vt~  
+generate p p > t t~ h, h > b b~,  t > l+ vl b, t~ > had had b~       @0 NP<=1 SMHLOOP=0 NProp=0
+add process p p > t t~ h, h > b b~, t > had had b, t~ > l- vl~ b~    @1 NP<=1 SMHLOOP=0 NProp=0
+
+add process p p > t t~ h j, h > b b~,  t > l+ vl b, t~ > had had b~    @2 NP<=1 SMHLOOP=0 NProp=0
+add process p p > t t~ h j, h > b b~, t > had had b, t~ > l- vl~ b~    @3 NP<=1 SMHLOOP=0 NProp=0
+
+
+output ttHbb-p1j-signal-SMEFTsim-topU3l
