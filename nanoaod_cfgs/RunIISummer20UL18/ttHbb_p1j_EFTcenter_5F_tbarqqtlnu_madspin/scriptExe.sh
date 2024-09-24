@@ -1,6 +1,6 @@
 #!/bin/bash
 BASE=$PWD
-NEVENTS=10
+NEVENTS=7000
 echo "================= CMSRUN starting jobNum=$1 ====================" | tee -a job.log
 
 export SCRAM_ARCH=slc7_amd64_gcc700
