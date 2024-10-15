@@ -6,8 +6,8 @@ define l- = e- mu- ta-
 define vl = ve vm vt
 define vl~ = ve~ vm~ vt~
 
-decay t~ > w- b~, w- > l- vl~
-decay t > w+ b, w+ > j j  
+decay t~ > w- b~, w- > j j 
+decay t > w+ b, w+ > l+ vl
 decay h > b b~
 
 launch
