@@ -54,7 +54,7 @@ process.NANOAODSIMoutput = cms.OutputModule("NanoAODOutputModule",
     ),
     fileName = cms.untracked.string('file:nanoAOD_step.root'),
     outputCommands = process.NANOAODSIMEventContent.outputCommands,
-    fakeNameForCrab = cms.untracked.bool(True)
+    #fakeNameForCrab = cms.untracked.bool(True)
 )
 
 # Additional output definition

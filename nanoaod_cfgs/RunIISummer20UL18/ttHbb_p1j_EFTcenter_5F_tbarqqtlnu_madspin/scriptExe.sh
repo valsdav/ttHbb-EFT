@@ -1,14 +1,14 @@
 #!/bin/bash
 BASE=$PWD
-NEVENTS=7000
+BASE_CMSSW=$CMSSW_BASE/src
+
 echo "================= CMSRUN starting jobNum=$1 ====================" | tee -a job.log
 
-export SCRAM_ARCH=slc7_amd64_gcc700
 source /cvmfs/cms.cern.ch/cmsset_default.sh
 
 
 echo "================= CMSRUN starting GEN-SIM step ====================" | tee -a job.log
-cmsRun -j genSim_step.log genSim_step.py jobNum=$1 nEvents=${NEVENTS}
+cmsRun -j genSim_step.log genSim_step.py jobNum=$1 $2
 
 echo "================= CMSRUN starting DIGI-RAW step ====================" | tee -a job.log
 
@@ -31,8 +31,11 @@ cmsRun -j HLT_step.log HLT_step.py
 echo "================= CMSRUN starting RECO-AOD-MINIAOD step ====================" | tee -a job.log
 
 # back to base cmssw
-cd $BASE
+eval `scram unsetenv -sh`
+cd $BASE_CMSSW
 eval `scram runtime -sh`
+cd $BASE
+#eval `scram runtime -sh`
 cmsRun -j recoMiniAOD_step.log recoMiniAOD_step.py
 
 
